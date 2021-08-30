@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Vinícius Goes 👋
+## Olá ! Eu sou o Vinícius Goes 👋
 
 <div>
   <a href="https://github.com/vgoes19">
@@ -17,7 +17,7 @@
   
 ![Snake animation](https://github.com/vgoes19/vgoes19/blob/output/github-contribution-grid-snake.svg)
   
- ## Total de Visitas no perfil :detective: <br>
+ ### Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/vgoes19/count.svg" />
  </p>
