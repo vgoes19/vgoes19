@@ -16,5 +16,12 @@
   
   
 ![Snake animation](https://github.com/vgoes19/vgoes19/blob/output/github-contribution-grid-snake.svg)
+  
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/vgoes19/count.svg" />
+ </p>
+
+</p>
 
 
