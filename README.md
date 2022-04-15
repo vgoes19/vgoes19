@@ -6,6 +6,7 @@
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgoes19&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
+  ## Some Skills 📚
  <div style="display: inline_block"><br>
   <img align="center" alt="Goes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Goes-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
